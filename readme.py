@@ -19,5 +19,5 @@ T A customer can place multiple orders, and each order is associated with only o
 1. Clone the repository:
 
    ```bash
-   git clone <https://github.com/VictorMugoW/myproject>
+   git clone https://github.com/andrewmungai/API-CAT2.git
    cd <myproject>
