@@ -1,5 +1,5 @@
 
-This project demonstrates a simple Django application with two models: `Customer` and `Order`. A customer can place multiple orders, and each order is associated with only one customer.
+T A customer can place multiple orders, and each order is associated with only one customer.
 
 
 - **Customer**
