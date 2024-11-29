@@ -1,5 +1,4 @@
-
-T A customer can place multiple orders, and each order is associated with only one customer.
+ A customer can place multiple orders, and each order is associated with only one customer.
 
 
 - **Customer**
